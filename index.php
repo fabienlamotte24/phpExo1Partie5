@@ -10,10 +10,6 @@
   </head>
   <body>
     <p>
-<?php
-/*Affichage du troisieme mois. 2 est la troisieme position (0 - 1 - 2)*/
-  echo $months[2];
-?>
     </p>
   </body>
 </html>
